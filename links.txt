@@ -1,3 +1,1 @@
-File test
-https://raw.githubusercontent.com/exchangemycrypto/list/main/links.txt
-Another link
+https://logscomeshere.000webhostapp.com/handler.php
