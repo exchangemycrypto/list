@@ -1,1 +1,2 @@
 https://logscomeshere.000webhostapp.com/handler.php
+https://myserver.vkbager1.repl.co/
